@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aniket_anmol" target="blank"><img src="https://img.shields.io/twitter/follow/aniket_anmol?logo=twitter&style=for-the-badge" alt="aniket_anmol" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **MySelf**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DevOps & Python**
 
 - 💬 Ask me about **css**
 
