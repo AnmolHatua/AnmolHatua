@@ -21,7 +21,7 @@
 <a href="https://twitter.com/aniket_anmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket_anmol" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anmol-hatua-13232619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-hatua-13232619a" height="30" width="40" /></a>
 <a href="https://instagram.com/anmolaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmolaniket" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCg7gS9TCkarY2euZcuioLPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCg7gS9TCkarY2euZcuioLPA" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCg7gS9TCkarY2euZcuioLPA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCg7gS9TCkarY2euZcuioLPA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
