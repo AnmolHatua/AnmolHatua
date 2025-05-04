@@ -9,6 +9,7 @@
 - 📫 How to reach me **anmolaniket07@outlook.com**
 - ⚡ Fun fact **Life is funny**
 
+
 ###
 
 <div align="center">
@@ -16,10 +17,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolhatua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-
 ###
 
+<div align="center">
+    <img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,11 +55,11 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" alt="Snake animation" />  
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" alt="Snake animation" />  
+  </picture>
 
 ###
 
