@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello World <👋> , I'm Anmol, A passionate python developer from India: </h2>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🔭 I’m currently working on **MySelf**
 - 🌱 I’m currently learning **DevOps & Python**
@@ -9,6 +9,7 @@
 - 📫 How to reach me **anmolaniket07@outlook.com**
 - ⚡ Fun fact **Life is funny**
 
+<br>
 
 ###
 
