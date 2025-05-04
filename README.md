@@ -1,6 +1,19 @@
-<h2 align="center">Hello World <👋> , I'm Anmol, A passionate Python developer from India: </h2>
+<h2 align="center" font-family="Fira Code">Hello World <👋> , I'm Anmol</h2>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<p align="center">
+  <a href="https://github.com/anmolhatua">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Python%20developer%20from%20INDIA&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=20" /></a>
+</p>
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://youtube.com/@AnmolAniket"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://linkedin.com/in/anmol-hatua-13232619a"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/aniket_anmol"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 - 🔭 I’m currently working on **MySelf**
 - 🌱 I’m currently learning **DevOps & Python**
@@ -8,18 +21,28 @@
 - 📫 How to reach me **anmolaniket07@outlook.com**
 - ⚡ Fun fact **Life is funny**
 
-<br>
-
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anmolhatua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolhatua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/anmolhatua/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="anmolhatua's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=anmolhatua&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+  </p>
+
+
+<h3>💻 GitHub Profile Stats</h3>
+
+<a href="https://github.com/anmolhatua/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=anmolhatua&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anmolhatua/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anmolhatua&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anmolhatua's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=anmolhatua&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 ###
-
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,22 +63,17 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aniket_anmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniket_anmol" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmol-hatua-13232619a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-hatua-13232619a" height="30" width="40" /></a>
-<a href="https://instagram.com/anmolaniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmolaniket" height="30" width="40" /></a>
-<a href="https://youtube.com/@AnmolAniket" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UCg7gS9TCkarY2euZcuioLPA" height="30" width="40" /></a>
-</p>
-
 
 ###
 
+<div align="center">
+  <h3>Contribution Map</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/anmolhatua/anmolhatua/output/github-snake.svg" alt="Snake animation" />  
   </picture>
+</div>
 
 
 ###
